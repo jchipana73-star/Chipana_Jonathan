@@ -1,0 +1,22 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\grados_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejecutar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\ejecutar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejecutar.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\ejecutar.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes\grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.3.4/grados/grados_3-0.1.0-SNAPSHOT.jar[0m

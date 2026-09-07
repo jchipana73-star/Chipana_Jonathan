@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\lecturasrapidas_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LecturasRapidas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\LecturasRapidas$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LecturasRapidas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\LecturasRapidas.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LecturasRapidas.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\LecturasRapidas.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Libro$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\Libro$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\Libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Libro.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana04\ejercicio01\target\out\jvm\scala-3.3.4\lecturasrapidas\classes\Libro.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.3.4/lecturasrapidas/lecturasrapidas_3-0.1.0-SNAPSHOT.jar[0m

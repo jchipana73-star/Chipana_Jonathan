@@ -1,0 +1,37 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\buscarProducto.scala:13:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m    buscarProducto (catalogo, [31m"Laptop"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    Found:    (Map[String, Double], String)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\buscarProducto.scala:15:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m    buscarProducto (catalogo, [31m"Smartphone"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    Found:    (Map[String, Double], String)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                    Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\buscarProducto.scala:25:12 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m25 |[0m        [33mif[0m (prducto == buscarProducto) {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            Not found: prducto - did you mean producto?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E052] Type Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\buscarProducto.scala:27:23 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m27 |[0m            encontrado = [31mtrue[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            Reassignment to val encontrado[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E120] Naming Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\buscarProducto.scala:18:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m18 |[0m[33mdef[0m [36mbuscarProducto[0m([36mcatalogo[0m: [35mMap[0m[[35mString[0m, [35mDouble[0m], [36mproducto[0m: [35mString[0m): [35mUnit[0m = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mDouble definition:[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mdef buscarProducto(catalogo: Map[String, Double], buscarProducto: String): Unit in the top-level definitions in package <empty> at line 1 and[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mdef buscarProducto(catalogo: Map[String, Double], producto: String): Unit in the top-level definitions in package <empty> at line 18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mhave the same type after erasure.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mConsider adding a @targetName annotation to one of the conflicting definitions[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mfor disambiguation.[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

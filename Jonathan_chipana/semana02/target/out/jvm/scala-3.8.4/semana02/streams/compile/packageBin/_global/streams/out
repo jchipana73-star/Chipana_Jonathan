@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.8.4\semana02\semana02_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.8.4\semana02\classes\grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.8.4\semana02\classes\grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.8.4\semana02\classes\grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.8.4/semana02/semana02_3-0.1.0-SNAPSHOT.jar[0m

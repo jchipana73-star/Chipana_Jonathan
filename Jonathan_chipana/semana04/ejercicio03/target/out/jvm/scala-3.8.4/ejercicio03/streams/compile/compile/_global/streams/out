@@ -1,0 +1,35 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:12:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m12 |[0m            [32m"Laptop"[0m    -> [32m1200.00[0m,[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Expected a type, but found a term: ->[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:13:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m            [32m"Televisor"[0m -> [32m850.00[0m,[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Expected a type, but found a term: ->[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:14:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m14 |[0m            [32m"Celular"[0m   -> [32m500.00[0m,[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Expected a type, but found a term: ->[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:15:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m15 |[0m            [32m"Teclado"[0m   -> [32m45.00[0m,  [0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Expected a type, but found a term: ->[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:16:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m16 |[0m            [32m"Mouse"[0m     -> [32m15.00[0m   [0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                        ^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                        Expected a type, but found a term: ->[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E067] Syntax Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\Ejercicio03\actualizacion.scala:11:12 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m11 |[0m        [33mval[0m [36mproductos[0m: [32mMap[0m[[32mString[0m, [32mDouble[0m] [32mMap[0m([0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mDeclaration of [33mvalue[0m [32mproductos[0m not allowed here: only classes can have declared but undefined members[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

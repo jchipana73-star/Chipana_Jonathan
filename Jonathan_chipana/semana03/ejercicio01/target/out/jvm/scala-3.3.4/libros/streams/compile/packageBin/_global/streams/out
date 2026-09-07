@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\libros_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libro$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libro$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libro.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libro.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libro.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libros$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libros$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libros.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libros.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	libros.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\target\out\jvm\scala-3.3.4\libros\classes\libros.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.3.4/libros/libros_3-0.1.0-SNAPSHOT.jar[0m

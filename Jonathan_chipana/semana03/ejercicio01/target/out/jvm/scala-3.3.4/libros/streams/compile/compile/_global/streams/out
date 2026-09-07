@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m-- Warning: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana03\ejercicio01\libro.scala:3:1 [0m[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m3 |[0m [33mobject[0m [35mlibro[0m {[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m[33m  |[0m ^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m  |[0m Line is indented too far to the right, or a `{` or `:` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

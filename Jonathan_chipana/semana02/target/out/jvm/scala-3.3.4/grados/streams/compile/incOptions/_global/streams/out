@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejecutar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$$anon$1.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ejecutar.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	grados$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\target\out\jvm\scala-3.3.4\grados\classes.bak[0m

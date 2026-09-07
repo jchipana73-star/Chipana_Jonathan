@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercico03\almacen.scala:3:63 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m3 |[0m    [33mdef[0m [36mverificarReposicion[0m([36mcantidad[0m: [35mList[0m[[35mInt[0m], [36mumbral[0m: [35mInt[0m): [35mUnite[0m = {[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m                                                               ^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m          Not found: type Unite - did you mean Unit.type? or perhaps Unit?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercico03\almacen.scala:7:8 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m7 |[0m        necestamosReposicion {[36mcantidad[0m => [0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m  |[0m        ^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m        Not found: necestamosReposicion[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m  |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,1 @@
+List(${OUT}/jvm/scala-3.3.4/buscarproducto/buscarproducto_3-0.1.0-SNAPSHOT.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.4/scala3-library_3-3.3.4.jar, ${CSR_CACHE}/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.14/scala-library-2.13.14.jar)

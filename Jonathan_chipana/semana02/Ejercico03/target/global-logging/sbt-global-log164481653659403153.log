@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(d08db3d3-81d8-4032-94a1-c420fa560e3a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercico03\target\out\jvm\scala-3.3.4\almacen\classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0melapsed time: 2 s, cache 61%, 11 disk cache hits, 7 onsite tasks[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

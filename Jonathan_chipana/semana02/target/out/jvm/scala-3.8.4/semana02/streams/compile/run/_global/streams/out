@@ -1,0 +1,24 @@
+[0m[[0m[31merror[0m] [0m[0mjava.lang.RuntimeException: no main class detected[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.sys.package$.error(package.scala:28)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.RunUtil$.getMainClass$$anonfun$1(RunUtil.scala:129)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Option.getOrElse(Option.scala:203)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.RunUtil$.getMainClass(RunUtil.scala:129)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.RunUtil$.defaultRunTask$$anonfun$1$$anonfun$1$$anonfun$1(RunUtil.scala:230)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$3.work(Transform.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$3.work(Transform.scala:79)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.submit$$anonfun$1$$anonfun$1(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:294)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.submit$$anonfun$1(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$2(ConcurrentRestrictions.scala:269)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:75)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:73)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:1447)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) no main class detected[0m

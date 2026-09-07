@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\target\out\jvm\scala-3.3.4\buscarproducto\buscarproducto_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	buscarProducto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\target\out\jvm\scala-3.3.4\buscarproducto\classes\buscarProducto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	buscarProducto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\target\out\jvm\scala-3.3.4\buscarproducto\classes\buscarProducto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	buscarProducto.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\csama\OneDrive\Escritorio\Lenguaje de Programacion\Jonathan_chipana\semana02\Ejercicio02\target\out\jvm\scala-3.3.4\buscarproducto\classes\buscarProducto.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-3.3.4/buscarproducto/buscarproducto_3-0.1.0-SNAPSHOT.jar[0m
